@@ -1,0 +1,13 @@
+
+# Ambiente Virtual PYTHON
+venv
+
+# Arquivos de IDE's
+.vscode
+.idea
+
+# Logs
+**/[rR]esults
+
+# Pycache
+**/__pycache__
